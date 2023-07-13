@@ -74,3 +74,7 @@ main {
   height: 150px;
   object-fit: cover;
 }
+
+.error-information {
+  padding: 30px;
+}
